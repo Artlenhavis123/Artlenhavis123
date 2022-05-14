@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artlenhavis123
 - 👀 I’m interested in Python, HTML, CSS, JS, C++, Java
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flask
 - 📫 You can reach me at oliver.havis@gmail.com
 
 <!---
